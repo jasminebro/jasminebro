@@ -4,10 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/KarchinLab/open-cravat">KarchinLab/open-cravat: ★129</a>
+* <a href="https://github.com/KarchinLab/open-cravat">KarchinLab/open-cravat: ★130</a>
 * <a href="https://github.com/collaborativebioinformatics/CNVision">collaborativebioinformatics/CNVision: ★8</a>
 * <a href="https://github.com/akatzke/HerediClassify">akatzke/HerediClassify: ★3</a>
 * <a href="https://github.com/jasminebro/Computational-Phylogenetics-Course">jasminebro/Computational-Phylogenetics-Course: ★2</a>
+* <a href="https://github.com/KarchinLab/open-cravat-modules-karchinlab">KarchinLab/open-cravat-modules-karchinlab: ★1</a>
 * <a href="https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jasminebro">Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jasminebro: ★1</a>
 * <a href="https://github.com/jasminebro/jasminebro.github.io">jasminebro/jasminebro.github.io: ★1</a>
 
