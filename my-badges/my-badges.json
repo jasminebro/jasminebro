@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/jasminebro/Python_AOU/commit/a7d7504d64bcf71cafad5c4ce886b53d0a84cd73\"><strong>a</strong>7d7504d64bcf71cafad5c4ce886b53d0a84cd73</a>",
+    "body": "- <a href=\"https://github.com/KarchinLab/open-cravat/commit/ae6eb45ff501c2578223fedebc628a41c445f1fc\"><strong>a</strong>e6eb45ff501c2578223fedebc628a41c445f1fc</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 82 times)\n2. added (used 32 times)\n3. readme.md (used 29 times)\n4. create (used 27 times)\n5. updated (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 85 times)\n2. added (used 34 times)\n3. readme.md (used 29 times)\n4. create (used 27 times)\n5. updated (used 22 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/KarchinLab/open-cravat\">KarchinLab/open-cravat: ★131</a>\n* <a href=\"https://github.com/collaborativebioinformatics/CNVision\">collaborativebioinformatics/CNVision: ★8</a>\n* <a href=\"https://github.com/akatzke/HerediClassify\">akatzke/HerediClassify: ★3</a>\n* <a href=\"https://github.com/jasminebro/Computational-Phylogenetics-Course\">jasminebro/Computational-Phylogenetics-Course: ★2</a>\n* <a href=\"https://github.com/KarchinLab/open-cravat-modules-karchinlab\">KarchinLab/open-cravat-modules-karchinlab: ★1</a>\n* <a href=\"https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jasminebro\">Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jasminebro: ★1</a>\n* <a href=\"https://github.com/jasminebro/jasminebro.github.io\">jasminebro/jasminebro.github.io: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/KarchinLab/open-cravat\">KarchinLab/open-cravat: ★132</a>\n* <a href=\"https://github.com/collaborativebioinformatics/CNVision\">collaborativebioinformatics/CNVision: ★8</a>\n* <a href=\"https://github.com/akatzke/HerediClassify\">akatzke/HerediClassify: ★3</a>\n* <a href=\"https://github.com/jasminebro/Computational-Phylogenetics-Course\">jasminebro/Computational-Phylogenetics-Course: ★2</a>\n* <a href=\"https://github.com/KarchinLab/open-cravat-modules-karchinlab\">KarchinLab/open-cravat-modules-karchinlab: ★1</a>\n* <a href=\"https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jasminebro\">Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-jasminebro: ★1</a>\n* <a href=\"https://github.com/jasminebro/jasminebro.github.io\">jasminebro/jasminebro.github.io: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -89,5 +89,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/jasminebro/Python_AOU/commit/2b6d1a8ff3f8d0568b23ab643fe3edc9961f068f\">2b6d1a8</a>\n- <a href=\"https://github.com/jasminebro/Python_AOU/commit/6731f16dc0e824281167ae684257a2f150b2294c\">6731f16</a>\n- <a href=\"https://github.com/jasminebro/Python_AOU/commit/ff8d82623819d688c4f7384d98550d2b1caf4b35\">ff8d826</a>\n- <a href=\"https://github.com/jasminebro/Python_AOU/commit/e7dfca34364284981eb31c5ac1f8a158e7426bfa\">e7dfca3</a>\n- <a href=\"https://github.com/jasminebro/Python_AOU/commit/59c3547bace820d23c38fc415093c2fb6f69ebcd\">59c3547</a>\n- <a href=\"https://github.com/jasminebro/Computational-Phylogenetics-Course/commit/9cf098d83fbf93c809826b5667a261716908006c\">9cf098d</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/KarchinLab/open-cravat/issues/368\">#368</a>: Add screenshots to the Single Variant Reporter tutorial\n- <a href=\"https://github.com/KarchinLab/open-cravat/issues/369\">#369</a>: Add format validation for module manifests\n- <a href=\"https://github.com/KarchinLab/open-cravat/issues/370\">#370</a>: Add optional metadata field validation for modules\n- <a href=\"https://github.com/statgenetics/seqspark/issues/8\">#8</a>: Cannot find target/scala-2.11/SeqSpark.jar, compiling failed? ",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   }
 ]
