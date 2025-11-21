@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/KarchinLab/open-cravat">KarchinLab/open-cravat: ★139</a>
+* <a href="https://github.com/KarchinLab/open-cravat">KarchinLab/open-cravat: ★138</a>
 * <a href="https://github.com/collaborativebioinformatics/CNVision">collaborativebioinformatics/CNVision: ★8</a>
 * <a href="https://github.com/akatzke/HerediClassify">akatzke/HerediClassify: ★3</a>
 * <a href="https://github.com/jasminebro/Computational-Phylogenetics-Course">jasminebro/Computational-Phylogenetics-Course: ★2</a>
