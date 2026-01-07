@@ -103,5 +103,12 @@
     "desc": "I closed an issue that was open for 4 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/statgenetics/seqspark/issues/8\">#8</a>: Cannot find target/scala-2.11/SeqSpark.jar, compiling failed? ",
     "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jasminebro/Computational-Phylogenetics-Course/commit/d573237799f32e07538f367b568de82eefc709f7\">d573237</a>\n- <a href=\"https://github.com/jasminebro/Computational-Phylogenetics-Course/commit/9cf098d83fbf93c809826b5667a261716908006c\">9cf098d</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
