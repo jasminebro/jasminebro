@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/KarchinLab/open-cravat">KarchinLab/open-cravat: ★148</a>
 * <a href="https://github.com/collaborativebioinformatics/CNVision">collaborativebioinformatics/CNVision: ★8</a>
-* <a href="https://github.com/akatzke/HerediClassify">akatzke/HerediClassify: ★4</a>
+* <a href="https://github.com/akatzke/HerediClassify">akatzke/HerediClassify: ★5</a>
 * <a href="https://github.com/jasminebro/Computational-Phylogenetics-Course">jasminebro/Computational-Phylogenetics-Course: ★2</a>
 * <a href="https://github.com/collaborativebioinformatics/PRSAggretator">collaborativebioinformatics/PRSAggretator: ★2</a>
 * <a href="https://github.com/KarchinLab/open-cravat-modules-karchinlab">KarchinLab/open-cravat-modules-karchinlab: ★1</a>
